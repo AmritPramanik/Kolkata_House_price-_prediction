@@ -1,2 +1,2 @@
-# Movie-Recommendation-AppSyste
+# Movie-Recommendation-App
 movie recommendation system using ML
