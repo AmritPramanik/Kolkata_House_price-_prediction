@@ -1,4 +1,4 @@
-# # 🏡 Kolkata House Price Prediction
+#🏡 Kolkata House Price Prediction
 
 This project uses Machine Learning(Linear Regression) model to predict house prices in Kolkata based on features like location, square footage, number of bedrooms and bathrooms, etc. It leverages linear regression and data preprocessing techniques to deliver accurate results and a user-friendly interface.
 
